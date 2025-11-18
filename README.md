@@ -17,14 +17,7 @@ Workout Routines: Custom workout plans that dynamically adjust based on user pro
 Tiered Pricing: Clear presentation of Basic, Pro, and Premium subscription plans.
 
 
-**Setup and Usage**
 
-This project is a single-page static website and does not require any complex dependencies or build tools.
-
-Clone the Repository (or Download Files):
-
-git clone [repository-url]
-cd smart-health-app-landing
 
 
 The page is fully responsive and optimized for mobile, tablet, and desktop viewing.
