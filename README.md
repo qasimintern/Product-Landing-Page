@@ -29,6 +29,3 @@ cd smart-health-app-landing
 
 The page is fully responsive and optimized for mobile, tablet, and desktop viewing.
 
-🎨 Design Notes
-
-The styling utilizes a clean, modern aesthetic with a focus on blues (for technology/trust) and oranges (for action/vitality) to represent the integration of AI and wellness.
